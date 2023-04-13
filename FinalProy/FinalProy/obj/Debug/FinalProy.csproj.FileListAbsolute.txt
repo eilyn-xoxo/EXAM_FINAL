@@ -1,0 +1,8 @@
+C:\Users\Eilyn Fortuna Perez\source\repos\FinalProy\FinalProy\bin\Debug\FinalProy.exe.config
+C:\Users\Eilyn Fortuna Perez\source\repos\FinalProy\FinalProy\bin\Debug\FinalProy.exe
+C:\Users\Eilyn Fortuna Perez\source\repos\FinalProy\FinalProy\bin\Debug\FinalProy.pdb
+C:\Users\Eilyn Fortuna Perez\source\repos\FinalProy\FinalProy\obj\Debug\FinalProy.csproj.AssemblyReference.cache
+C:\Users\Eilyn Fortuna Perez\source\repos\FinalProy\FinalProy\obj\Debug\FinalProy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eilyn Fortuna Perez\source\repos\FinalProy\FinalProy\obj\Debug\FinalProy.csproj.CoreCompileInputs.cache
+C:\Users\Eilyn Fortuna Perez\source\repos\FinalProy\FinalProy\obj\Debug\FinalProy.exe
+C:\Users\Eilyn Fortuna Perez\source\repos\FinalProy\FinalProy\obj\Debug\FinalProy.pdb
